@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    color-scheme: dark;
+  }
+
+  body {
+    @apply bg-navy text-slate font-sans antialiased;
+  }
+
+  ::selection {
+    @apply bg-green/20 text-white;
+  }
+}
+
+@layer utilities {
+  .text-fluid-sm {
+    font-size: clamp(0.875rem, 0.8rem + 0.35vw, 1rem);
+  }
+
+  .text-fluid-base {
+    font-size: clamp(1rem, 0.9rem + 0.5vw, 1.125rem);
+  }
+
+  .text-fluid-lg {
+    font-size: clamp(1.25rem, 1rem + 1.25vw, 1.75rem);
+  }
+
+  .text-fluid-xl {
+    font-size: clamp(1.75rem, 1.2rem + 2.5vw, 3rem);
+  }
+
+  .text-fluid-2xl {
+    font-size: clamp(2rem, 1.5rem + 2.5vw, 4rem);
+  }
+}
