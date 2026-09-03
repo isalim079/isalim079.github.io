@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.dev-salim.net"><img src="https://img.shields.io/badge/Live_Portfolio-dev--salim.net-0a192f?style=for-the-badge&logo=google-chrome&logoColor=64ffda" alt="Live Portfolio" /></a>
+  <a href="https://isalim079.github.io"><img src="https://img.shields.io/badge/Live_Portfolio-isalim079.github.io-0a192f?style=for-the-badge&logo=google-chrome&logoColor=64ffda" alt="Live Portfolio" /></a>
   <a href="https://github.com/isalim079"><img src="https://img.shields.io/badge/GitHub-isalim079-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/isalim079"><img src="https://img.shields.io/badge/LinkedIn-Salim_Reza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:salimreza1025@gmail.com"><img src="https://img.shields.io/badge/Email-salimreza1025@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -27,11 +27,12 @@
 
 ## 📌 About Me
 
-Hi there! I'm **Salim Reza Sumon**, a **Mobile App Developer** with a strong foundation in full-stack web development based in **Dhaka, Bangladesh**. I specialize in building performant, accessible, and user-centric cross-platform mobile apps and modern web interfaces.
+Hi there! I'm **Salim Reza Sumon**, a **Mobile App Developer** specializing in **React Native** and **Expo**, backed by a solid background in full-stack web development. Based in **Dhaka, Bangladesh**, I build performant, reliable cross-platform mobile apps and scalable web interfaces that solve real business challenges.
 
 - 💼 **Current Role:** Mobile App Developer at **Excel Technologies Ltd**
-- 📱 **Focus:** Cross-platform mobile development (React Native & Expo), Clean Architecture & Scalable Web Apps
-- 🌐 **Live Website:** [dev-salim.net](https://www.dev-salim.net) / [isalim079.github.io](https://isalim079.github.io)
+- 📱 **Mobile Specialization:** React Native, Expo, TypeScript, and native Android integrations (Kotlin)
+- 🚀 **Production Track Record:** Enterprise mobile solutions published on Google Play (**ArcOne ERP** & **ArcPOS Point of Sale**) and transit management platforms
+- 🌐 **Live Website:** [isalim079.github.io](https://isalim079.github.io)
 - 📍 **Location:** Dhaka, Bangladesh
 
 ---
@@ -181,7 +182,7 @@ Feel free to reach out if you'd like to collaborate, discuss an opportunity, or 
 - **Email:** [salimreza1025@gmail.com](mailto:salimreza1025@gmail.com)
 - **LinkedIn:** [linkedin.com/in/isalim079](https://linkedin.com/in/isalim079)
 - **GitHub:** [github.com/isalim079](https://github.com/isalim079)
-- **Portfolio:** [dev-salim.net](https://www.dev-salim.net)
+- **Portfolio:** [isalim079.github.io](https://isalim079.github.io)
 
 ---
 

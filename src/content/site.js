@@ -17,6 +17,7 @@ export const siteConfig = {
   location: "Dhaka, Bangladesh",
   profilePhoto,
   resumeUrl: "/Salim-Reza-Sumon-Resume.pdf",
+  siteUrl: "https://isalim079.github.io",
   social: {
     github: "https://github.com/isalim079",
     linkedin: "https://linkedin.com/in/isalim079",
@@ -32,10 +33,10 @@ export const navLinks = [
 
 export const aboutContent = {
   paragraphs: [
-    "Hi there! I'm Salim, a mobile app developer with a strong foundation in full-stack web development. I enjoy building products that are fast, accessible, and thoughtfully engineered — from cross-platform mobile apps to polished web interfaces.",
-    "Currently, I'm a Mobile App Developer at Excel Technologies Ltd, where I contribute to team-built production apps including ArcOne (ERP), ArcPOS, and an in-development bus transport management system. I work with React Native, Expo, and TypeScript alongside the team to ship reliable features across platforms.",
-    "Previously, I spent a year as a Front-End Developer at BrandFly building responsive React interfaces from Figma and Node.js backends. Before that, I completed a remote internship at Velocity Digital Inc in Canada, where I built 180+ website components and sharpened my collaboration skills.",
-    "I graduated with a BSc in Physics from National University and completed intensive web development training at Programming Hero. I'm actively growing toward top-tier engineering roles — focused on clean architecture, performance, and shipping software that scales.",
+    "Hi there! I'm Salim Reza Sumon, a Mobile App Developer specializing in React Native and Expo, with a strong foundation in full-stack web development. I focus on building performant, accessible, and thoughtfully engineered applications — from production-grade cross-platform mobile apps to scalable web platforms.",
+    "Currently at Excel Technologies Ltd, I actively build and maintain production mobile applications using React Native, Expo, and TypeScript. My work powers enterprise apps published on Google Play, including ArcOne (an ERP solution featuring GPS-verified attendance, billing approval workflows, inventory stock checks, and sales dashboards) and ArcPOS (a point-of-sale system featuring thermal receipt printing, real-time transaction sync, and order management), as well as an in-testing Bus Transport Management system for transit operations.",
+    "Before diving deep into mobile development, I spent a year as a Front-End Developer at BrandFly building responsive React applications from Figma designs and developing Node.js/MongoDB backends. Earlier, I completed a remote internship at Velocity Digital Inc (Canada), where I built 180+ modular web components and honed international team collaboration skills.",
+    "I hold a BSc in Physics from National University and completed intensive software engineering training at Programming Hero. Combining deep expertise in React Native, Expo, and modern full-stack web technologies, I am passionate about clean architecture, snappy mobile performance, hardware integration (GPS, printing, notifications), and shipping software that makes a real impact.",
   ],
   languages: [
     { name: "English", level: "Comfortable" },
@@ -43,9 +44,35 @@ export const aboutContent = {
     { name: "Hindi", level: "Fluent" },
   ],
   skills: {
-    Mobile: ["React Native", "Expo", "TypeScript", "Kotlin"],
-    Frontend: ["React", "Next.js", "Tailwind CSS", "Redux", "Material UI"],
-    Backend: ["Node.js", "Express", "MongoDB", "Firebase", "Mongoose"],
+    Mobile: [
+      "React Native",
+      "Expo",
+      "TypeScript",
+      "JavaScript",
+      "Kotlin",
+      "Push Notifications",
+      "GPS & Geolocation",
+      "Real-time Sync",
+      "Receipt / Thermal Printing",
+    ],
+    Frontend: [
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "Redux Toolkit",
+      "Material UI",
+      "Framer Motion",
+      "HTML5 / CSS3",
+    ],
+    Backend: [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Firebase",
+      "Mongoose",
+      "REST APIs",
+      "Stripe Payments",
+    ],
   },
   education: [
     {

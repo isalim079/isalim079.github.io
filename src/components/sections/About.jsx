@@ -21,8 +21,13 @@ export default function About() {
                 <div className="absolute inset-0 rounded-md bg-green/20 translate-x-2 translate-y-2 transition-transform group-hover:translate-x-1 group-hover:translate-y-1" />
                 <img
                   src={siteConfig.profilePhoto}
-                  alt={siteConfig.fullName}
-                  className="relative w-48 md:w-56 rounded-md border-2 border-green/40 object-cover grayscale hover:grayscale-0 transition-all duration-300"
+                  alt={`${siteConfig.fullName} - Mobile App Developer`}
+                  title={`${siteConfig.fullName} - Mobile App Developer`}
+                  width="224"
+                  height="224"
+                  loading="eager"
+                  decoding="async"
+                  className="relative w-48 md:w-56 aspect-square rounded-md border-2 border-green/40 object-cover grayscale hover:grayscale-0 transition-all duration-300"
                 />
               </div>
             </div>

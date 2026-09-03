@@ -19,7 +19,7 @@ export default function Hero() {
         transition={{ duration: 0.5, delay: 0.1 }}
         className="text-fluid-2xl font-bold text-white leading-tight mb-2 md:mb-4"
       >
-        {siteConfig.displayName}.
+        {siteConfig.fullName}.
       </motion.h1>
 
       <motion.h2
